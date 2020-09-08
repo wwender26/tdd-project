@@ -1,0 +1,7 @@
+Testes de Unidade:
+  -  Testa uma funcionalidade de uma classe ou metodo do codigo de forma individual e isolada de recursos externos da aplicação
+  -  Possível identificar bugs e reparar de forma rapida e eficiente durante as fases desenvolvimento de uma funcionalidade
+
+Teste funcional:
+  - Testa todas as funcionalidades e interações da aplicação em conjunto.
+  -  Bugs encontrados podem ser mais dificeis de serem corrigidos, exigindo mais tempo para seu reparo
