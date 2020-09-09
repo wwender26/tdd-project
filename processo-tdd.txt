@@ -1,0 +1,13 @@
+- Primeiramente, criamos um teste funcional para a aplicação.
+- Se ele não passar, escrevemos um teste de unidade e rodamos o teste.
+- Se o teste de unidade não passar, escrevemos um código minimo para que o teste passe.
+- Se ele continuar falhando, escrevemos o código pouco a pouco até o teste de unidade passar.
+- Quando passar, analisamos o código e avaliamos se existe a necessidade de refatoração.
+- Caso exista, escrevemos mais um pouco do código e rodamos o teste novamente até o código
+   estar com uma melhor legibilidade e testabilidade.
+- Após esse processo, voltamos a realizar os testes funcionais.
+- Se o teste funcional passar, avaliamos se o código precisa de refatoração.
+- Caso precise, entramos novamente no loop de escrever um pouco do código, testar, refatorar,
+   testar novamente até o projeto estar melhor modularizado e mais entendível.
+-  Caso não necessite de refatoração, podemos começar a escrever um novo teste funcional para a
+    aplicação.
